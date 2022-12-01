@@ -1,7 +1,10 @@
 ### Hi there 👋
 I'm Bogdan
+  
   🌱 I’m an aspiring software engineer who's currently studying ICT & Software Engineering in Eindhoven. 
+  
   🔭 I’m currently working on C# winform apps & learning oop
+  
   🥸 I love JS
  
 <!--
