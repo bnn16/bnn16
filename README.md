@@ -1,9 +1,15 @@
 ### Hi there 👋
 I'm Bogdan
   
-  🌱 I’m an aspiring software engineer who's currently studying ICT & Software Engineering in Eindhoven. 
+  🌱 I’m an aspiring software engineer as well as a Startup CEO @Solus who's currently studying ICT & Software Engineering in Eindhoven. 
   
-  🔭 I’m currently working on C# winform apps & learning oop
+  🔭 I’m currently working on microservices app, that will allow YouTubers communicate with editors, without having to give them their own personal password.
+      Back-end:
+        - Spring
+        - NodeJS
+        - Pytohn
+      Front-end:
+        -ReactJS
   
   🥸 I love JS
  
