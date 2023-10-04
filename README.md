@@ -4,14 +4,21 @@ I'm Bogdan
   🌱 I’m an aspiring software engineer as well as a Startup CEO @Solus who's currently studying ICT & Software Engineering in Eindhoven. 
   
   🔭 I’m currently working on microservices app, that will allow YouTubers communicate with editors, without having to give them their own personal password.
-      Back-end:
-        - Spring
-        - NodeJS
+
+Skills:
+
+        - NodeJS/JavaScript/TypeScript
         - Pytohn
-      Front-end:
-        -ReactJS
+        - Java/Spring
+        - ReactJS/React Native
+        - C#/ASP.NET
+        - SQL
+        - MongoDB
+
   
   🥸 I love JS
+  
+  🙃 Currently learning C
  
 <!--
 **bnn16/bnn16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
