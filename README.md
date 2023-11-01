@@ -18,7 +18,8 @@ Skills:
   
   🥸 I love JS
   
-  🙃 Currently learning C
+  🙃 Currently learning C++, with the goal of learning how to create OS and game/physics engines.
+
  
 <!--
 **bnn16/bnn16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
