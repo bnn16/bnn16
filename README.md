@@ -1,9 +1,7 @@
-### Hi there 👋
-I'm Bogdan
+## Hi there 👋
+### I'm Bogdan
   
-  🌱 I’m an aspiring software engineer as well as a Startup CEO @Solus who's currently studying ICT & Software Engineering in Eindhoven. 
-  
-  🔭 I’m currently working on microservices app, that will allow YouTubers communicate with editors, without having to give them their own personal password.
+  🌱 I’m an aspiring software engineer who's currently studying ICT & Software Engineering/Cybersecurity in Eindhoven. 
 
 Skills:
 
@@ -14,11 +12,13 @@ Skills:
         - C#/ASP.NET
         - SQL
         - MongoDB
+        - Vim ( work in progress )
+        
 
   
-  🥸 I love JS
+  #### 🥸 I love JS
   
-  🙃 Currently learning C++, with the goal of learning how to create OS and game/physics engines.
+ ### 🙃 Currently learning C and VIM
 
  
 <!--
