@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Bogdan
   
-  🌱 I’m an aspiring software engineer who's currently studying ICT & Software Engineering/Cybersecurity in Eindhoven. 
+  🌱 I’m a junior software engineer @ UiPath who's currently studying ICT & Software Engineering/Cybersecurity in Eindhoven. 
 
 Skills:
 
@@ -15,8 +15,6 @@ Skills:
         - Vim ( work in progress )
         
 
-  
-  #### 🥸 I love JS
   
  ### 🙃 Currently learning C and VIM
 
