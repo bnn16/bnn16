@@ -6,7 +6,6 @@
 Skills:
 
         - JavaScript/TypeScript
-        - Python
         - ReactJS/React Native
         - C#/ASP.NET
         - SQL
